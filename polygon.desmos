@@ -1,0 +1,7 @@
+n=10
+s=4
+s_{cale}=9\min\left(\frac{\operatorname{height}}{\operatorname{width}},\frac{\operatorname{width}}{\operatorname{height}}\right)
+p=\left[1...n\right]
+x_{v}=s_{cale}\sin\frac{p\tau}{n}
+y_{v}=s_{cale}\cos\frac{p\tau}{n}
+\left(x_{v},y_{v}\right)
